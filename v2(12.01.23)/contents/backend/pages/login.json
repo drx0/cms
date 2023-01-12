@@ -1,0 +1,10 @@
+{
+	"title": "Войти",
+	"meta_title": "Войти",
+	"meta_description": "",
+	"layout": "default",
+	"login": false,
+	"show": true,
+	"parent": false,
+	"power": true
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Дашборд",
+	"meta_title": "Дашборд",
+	"meta_description": "",
+	"layout": "default",
+	"login": true,
+	"show": true,
+	"parent": false
+}
